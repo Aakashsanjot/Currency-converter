@@ -270,5 +270,4 @@ MIT — see LICENSE file.
 ---
 
 *Submitted as part of the DecodeLabs Industrial Training Kit, Batch 2026.*
-# Currency-converter
-This is a full project of currency conversion, made with Java JDK 26, Public repository
+
